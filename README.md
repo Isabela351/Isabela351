@@ -26,7 +26,7 @@ I'm a CS student passionate about solving real-world problems using technology. 
 -->
 
 ### 📫 Connect With Me
-- **LinkedIn**: [linkedin.com/in/isabela-ortega-arellano](#)
-- **Email**: [oisabela813@gmail.com](#)
+- **LinkedIn**: linkedin.com/in/isabela-ortega-arellano
+- **Email**: oisabela813@gmail.com
 
 ---

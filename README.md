@@ -12,14 +12,27 @@ I'm a CS student passionate about solving real-world problems using technology. 
 
 ---
 
+🎯 Featured Project: Bias Detection for Meta (https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md)
+
+---
+
 ### 🛠️ Technical Skills
 - **Languages**: Python, JavaScript, SQL, HTML, CSS
 - **Libraries**: : Pandas, NumPy, matplotlib, scikit-learn
 - **Tools**: Jupyter Notebooks, Bootstrap
 
 --- 
+
 <!--
-## 📂 Projects
+🎯 Featured Project: Bias Detection for Meta (https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md)
+- Tools: Python, 
+- What We Did: Preprocessed and vectorized text data using
+- Results: Achieved 85% accuracy
+
+
+### 📂 Projects
+Sentiment Analysis on Book Reviews (https://github.com/Isabela351/Sentiment-Analysis-of-Book-Reviews/blob/main/README.md)
+
 - **[NYC Resident Toolkit Website](GitHub Repo URL)**: Redesigned using **HTML**, **CSS**, **Bootstrap**.
 - **[Rational Class & Pi Approximation](GitHub Repo URL)**: Python-based class to approximate **Pi**.
 - **[FIFA World Cup App Design](GitHub Repo URL)**: JavaScript app displaying past FIFA World Cup data.

@@ -13,7 +13,7 @@ I'm a CS student passionate about solving real-world problems using technology. 
 ---
 
 ### 🎯 Featured Project: Bias Detection for Meta 
-🔗 * Project README:* https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md
+🔗 *Project README:* https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md
 
 As part of Break Through Tech’s Fall AI Studio with **Meta**, my team and I developed a machine learning model to classify biased vs. non-biased text.
 
@@ -34,13 +34,24 @@ As part of Break Through Tech’s Fall AI Studio with **Meta**, my team and I de
 
 ### 📂 Projects
 
-1. **Sentiment Analysis on Book Reviews**
-🔗 * Project README:* https://github.com/Isabela351/sentiment-analysis-book-reviews/blob/main/README.md
+**1. Sentiment Analysis on Book Reviews**
+
+🔗 *Project README:* https://github.com/Isabela351/sentiment-analysis-book-reviews/blob/main/README.md
 
 A machine learning model that predicts whether a book review is positive or negative using natural language processing (NLP).
 - Developed an end-to-end NLP pipeline using TF-IDF vectorization and Logistic Regression  
 - Implemented baseline vs. optimized models using Grid Search to improve accuracy and ROC-AUC
+
 **Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Jupyter Notebook
+
+
+**2. NYC Resident Toolkit Website**
+
+A redesigned informational NYC Residental Toolkit Website helping New York City residents access key civic, safety, and city life resources in one place.
+- Redesigned the layout and built using HTML, and Bootstrap for improved visual appeal
+- Integrated links to official NYC resources, government services, and public facilities  
+
+**Tech Stack:** HTML, CSS, Bootstrap
 
 ---
 

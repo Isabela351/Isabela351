@@ -47,11 +47,13 @@ A machine learning model that predicts whether a book review is positive or nega
 
 **2. NYC Resident Toolkit Website**
 
+🔗 *Project README:* https://github.com/Isabela351/redesigned-nyc-residential-toolkit-website/blob/main/README.md
+
 A redesigned informational NYC Residental Toolkit Website helping New York City residents access key civic, safety, and city life resources in one place.
 - Redesigned the layout and built using HTML, and Bootstrap for improved visual appeal
 - Integrated links to official NYC resources, government services, and public facilities  
 
-**Tech Stack:** HTML, CSS, Bootstrap
+**Tech Stack:** HTML, Bootstrap
 
 ---
 

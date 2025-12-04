@@ -12,8 +12,8 @@ I'm a CS student passionate about solving real-world problems using technology. 
 
 ---
 
-### 🎯 Featured Project: Bias Detection for Meta (https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md) 
-🔗 *Repo:* https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md  
+### 🎯 Featured Project: Bias Detection for Meta 
+🔗 * Project README:* https://github.com/Meta-Fall-AI-Studio/Meta1A-Bias-Detection/blob/main/README.md
 
 As part of Break Through Tech’s Fall AI Studio with **Meta**, my team and I developed a machine learning model to classify biased vs. non-biased text.
 
@@ -33,19 +33,19 @@ As part of Break Through Tech’s Fall AI Studio with **Meta**, my team and I de
 --- 
 
 ### 📂 Projects
-1. **Sentiment Analysis on Book Reviews** — Built a model to classify book reviews as positive or negative.
+
+1. **Sentiment Analysis on Book Reviews**
+🔗 * Project README:* https://github.com/Isabela351/sentiment-analysis-book-reviews/blob/main/README.md
+
+A machine learning model that predicts whether a book review is positive or negative using natural language processing (NLP).
+- Developed an end-to-end NLP pipeline using TF-IDF vectorization and Logistic Regression  
+- Implemented baseline vs. optimized models using Grid Search to improve accuracy and ROC-AUC
+**Tech Stack:** Python, scikit-learn, Pandas, Matplotlib, Jupyter Notebook
 
 ---
 
 ### 📫 Connect With Me
 - **LinkedIn**: linkedin.com/in/isabela-ortega-arellano
 - **Email**: oisabela813@gmail.com
-
----
-<!--
-
-
--->
-
 
 ---

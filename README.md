@@ -59,6 +59,5 @@ A redesigned informational NYC Residental Toolkit Website helping New York City 
 
 ### 📫 Connect With Me
 - **LinkedIn**: linkedin.com/in/isabela-ortega-arellano
-- **Email**: oisabela813@gmail.com
 
 ---
